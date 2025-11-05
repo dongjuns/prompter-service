@@ -1,2 +1,6 @@
 # secret key
 .env
+
+# virtualenv
+venv/
+__pycache__/
